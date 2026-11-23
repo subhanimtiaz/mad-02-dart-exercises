@@ -41,4 +41,4 @@ Replace this picture with your own. Run `dart test` and `dart run`, take a scree
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+asked AI why dart analyze flagged the withdraw method for needing @override
